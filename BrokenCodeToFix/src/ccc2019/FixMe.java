@@ -20,7 +20,7 @@ Scanner in = new Scanner(System.in);
             //Loop through the characters
  
  char currentChar='a';
- int currentCount='0';
+ int currentCount=0;
  char previousChar = 0;
  for (int j = 0; j < input.length(); j++) {
 	 //if this is the first pass through the loop
